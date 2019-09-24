@@ -1,2 +1,5 @@
 Bienvenido a la clase 2
 Modifique este archivo en VS
+
+Estamos en la rama master
+Este codigo es del master
